@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(252, 186, 207);
+}
+img {
+  padding-left: 110px;
+  padding-bottom: 50px;
+}
+strong {
+  margin-top: 80px;
+  margin-left: 175px;
+}
+button {
+  margin-left: 50px;
+}
+input {
+  display: none;
+}
+h1 {
+  margin-left: 180px;
+  margin-top: 100px;
+}
+#so {
+  margin-left: 600px;
+  margin-top: 10px;
+}
+#hyf {
+  margin-left: 550px;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
